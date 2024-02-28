@@ -1,3 +1,4 @@
+"use client";
 import React, { useEffect, useState } from "react";
 import useBreakpoint from "antd/lib/grid/hooks/useBreakpoint";
 
