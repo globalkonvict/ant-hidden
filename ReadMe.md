@@ -1,6 +1,6 @@
-# `react-antd-hidden`
+# `antd-hidden`
 
-The `react-antd-hidden` component utilizes Ant Design's `useBreakpoint` hook to conditionally render children based on the viewport's breakpoints or custom media queries. This component is designed for responsive layouts, allowing developers to easily show or hide content at specific screen sizes or according to custom criteria.
+The `antd-hidden` component utilizes Ant Design's `useBreakpoint` hook to conditionally render children based on the viewport's breakpoints or custom media queries. This component is designed for responsive layouts, allowing developers to easily show or hide content at specific screen sizes or according to custom criteria.
 
 ## Features
 
@@ -11,18 +11,18 @@ The `react-antd-hidden` component utilizes Ant Design's `useBreakpoint` hook to 
 
 ## Installation
 
-Before installing `react-antd-hidden`, ensure your project includes `react` and `antd`.
+Before installing `antd-hidden`, ensure your project includes `react` and `antd`.
 
 Install via npm:
 
 ```bash
-npm install react-antd-hidden
+npm install antd-hidden
 ```
 
 Or using yarn:
 
 ```bash
-yarn add react-antd-hidden
+yarn add antd-hidden
 ```
 
 ## Usage
@@ -34,7 +34,7 @@ To use `Hidden`, import it into your component and wrap the elements you want to
 #### Hiding Content on Specific Breakpoints
 
 ```jsx
-import Hidden from 'react-antd-hidden';
+import Hidden from 'antd-hidden';
 
 const ExampleComponent = () => (
   <Hidden xs sm>
@@ -46,7 +46,7 @@ const ExampleComponent = () => (
 #### Utilizing Custom Media Queries
 
 ```jsx
-import Hidden from 'react-antd-hidden';
+import Hidden from 'antd-hidden';
 
 const ExampleComponent = () => (
   <Hidden media="(max-width: 768px)">
@@ -72,9 +72,9 @@ const ExampleComponent = () => (
 
 ## Contributing
 
-Contributions are welcome to enhance `react-antd-hidden`. Feel free to submit pull requests or open issues to suggest improvements or report bugs.
+Contributions are welcome to enhance `antd-hidden`. Feel free to submit pull requests or open issues to suggest improvements or report bugs.
 
 ## License
 
-`react-antd-hidden` is available under the MIT License. See the LICENSE file for more info.
+`antd-hidden` is available under the MIT License. See the LICENSE file for more info.
 

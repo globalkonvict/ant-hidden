@@ -1,6 +1,6 @@
 {
   "name": "antd-hidden",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A React component to conditionally render children based on Ant Design's breakpoints or custom media queries.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
