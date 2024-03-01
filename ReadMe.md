@@ -1,6 +1,6 @@
 # `antd-hidden`
 
->**Introducing a More Advanced Component**: Unlike the traditional components dependent on ant-design's `useBreakpoint` hook, Excited to share a new, more advanced component that offers greater flexibility and control over your responsive design needs. This component is not tied to any specific design system or library, making it incredibly versatile for a wide range of applications.
+>**Introducing a More Advanced Component**: Unlike the traditional component that's dependent on ant-design's `useBreakpoint` hook. Excited to share a new, more advanced Hidden component that offers greater flexibility and control over your responsive design needs. This component is not tied to any specific design system or library, making it incredibly versatile for a wide range of applications.
 
 >Check out the component on NPM: [globalkonvict/react-hidden](https://www.npmjs.com/package/react-hidden)
 
