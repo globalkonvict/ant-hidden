@@ -1,5 +1,14 @@
 # `antd-hidden`
 
+>**Introducing a More Advanced Component**: Unlike the traditional components dependent on ant-design's `useBreakpoint` hook, Excited to share a new, more advanced component that offers greater flexibility and control over your responsive design needs. This component is not tied to any specific design system or library, making it incredibly versatile for a wide range of applications.
+
+>Check out the component on NPM: [globalkonvict/react-hidden](https://www.npmjs.com/package/react-hidden)
+
+>Check out the component on GitHub: [globalkonvict/react-hidden](https://github.com/globalkonvict/react-hidden)
+
+This standalone solution is designed to seamlessly integrate with your existing projects, providing an intuitive and straightforward approach to managing visibility across different screen sizes without relying on ant-design's breakpoint system. Perfect for projects looking for a lightweight and customizable alternative.
+
+
 The `antd-hidden` component utilizes Ant Design's `useBreakpoint` hook to conditionally render children based on the viewport's breakpoints or custom media queries. This component is designed for responsive layouts, allowing developers to easily show or hide content at specific screen sizes or according to custom criteria.
 
 ## Features
